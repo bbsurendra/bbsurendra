@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @bbsurendra
-- 👀 I’m interested in ...front end development
-- 🌱 I’m currently learning ...front end development
-- 💞️ I’m looking to collaborate on ...Google,Microsoft
-- 📫 How to reach me ...bbsurendrapreetham@gmail.com
+- 👀 I’m interested in ... Product Analyst
+- 🌱 I’m currently learning ...Product Management
+- 💞️ I’m looking to collaborate on ...Google,Microsoft, nvidia
+- 📫 How to reach me ...surendrabattula22@gmail.com
 - 😄 Pronouns: ...surendra battula
-- ⚡ Fun fact: ...still im a student who is enthusiastic on data analytics and front end development
+- ⚡ Fun fact: ...still im learning about how to talk as a professional graduate
 
 <!---
 bbsurendra/bbsurendra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
